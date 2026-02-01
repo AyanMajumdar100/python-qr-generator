@@ -107,5 +107,3 @@ Refer to the `LICENSE` file for more information.
 
 Built for generating QR codes quickly and easily 
 Happy coding with **Python QR Generator** 
-
-```
